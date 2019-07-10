@@ -3,8 +3,8 @@ A little glasses delivery site that I made up using HTML5, CSS3 and JavaScript.
 
 
 Here was my initial write-up of the site:
-
 ""
+
 Wandering Eye
 
 Main Page:
